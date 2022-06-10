@@ -129,6 +129,12 @@ $ yarn add -D vue-router
 $ yarn add -D sass sass-loader
 ```
 
+## Install Reset CSS
+
+```bash
+$ yarn add -D normalize.css
+```
+
 ## Configure Lint to package.json
 
 ```json
