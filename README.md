@@ -123,6 +123,12 @@ $ yarn add -D stylelint stylelint-config-recommended stylelint-config-standard
 $ yarn add -D vue-router
 ```
 
+## Install Sass
+
+```bash
+$ yarn add -D sass sass-loader
+```
+
 ## Configure Lint to package.json
 
 ```json
